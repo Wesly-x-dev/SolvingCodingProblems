@@ -1,0 +1,62 @@
+Beginner Level Problems
+
+1. Sum of Two Numbers
+Write a Python program that takes two numbers as input and prints their sum.
+
+2. Odd or Even
+Write a Python program that checks whether a given number is odd or even.
+
+3. Simple Calculator
+Write a Python program that asks the user for two numbers and an operator (+, -, *, /) and performs the calculation.
+
+4. Largest of Three Numbers
+Write a Python program that takes three numbers as input and prints the largest one.
+
+5. Factorial Calculation
+Write a program that calculates the factorial of a given number using a loop.
+
+6. Prime Number Checker
+Write a Python program that checks if a given number is prime or not.
+
+7. Reverse a String
+Write a program that takes a string as input and prints it in reverse.
+
+8. Palindrome Checker
+Write a Python program that checks if a given string is a palindrome.
+
+9. Fibonacci Series
+Write a Python program to generate the first n numbers of the Fibonacci series.
+
+10. Count Vowels and Consonants
+Write a program that counts the number of vowels and consonants in a given string.
+
+Intermediate Level Problems
+Find the Second Largest Number in a List
+Write a program that finds the second largest number in a list.
+
+List Sorting without sort()
+Write a Python program to sort a list without using the built-in sort() function.
+
+Remove Duplicates from a List
+Write a program that removes duplicate elements from a given list.
+
+Check Armstrong Number
+Write a Python program that checks if a given number is an Armstrong number (e.g., 153).
+
+Number Guessing Game
+Create a simple number guessing game where the program selects a random number between 1 and 100, and the user has to guess it.
+
+Simple Login System
+Write a Python program that asks for a username and password and checks if it matches stored credentials.
+
+Count Words in a Sentence
+Write a program that counts the number of words in a given sentence.
+
+Rock, Paper, Scissors Game
+Create a simple rock-paper-scissors game that lets the user play against the computer.
+
+Find the GCD of Two Numbers
+Write a Python program to find the Greatest Common Divisor (GCD) of two numbers.
+
+Caesar Cipher Encryption
+Write a program that encrypts a given string using the Caesar cipher technique.
